@@ -32,10 +32,10 @@ document.getElementById('cls-4').addEventListener('click', function(){
 
   // Class - 4th
 
-document.getElementById('cls-4').addEventListener('click', function(){
-  document.getElementById('tex-4').style.display = "none";
-  location.href = "https://drive.google.com/file/d/1FItujoRpPW3aQtkS2a2hR9SAywPmT9LR";
-  })
+// document.getElementById('cls-4').addEventListener('click', function(){
+//   document.getElementById('tex-4').style.display = "none";
+//   location.href = "https://drive.google.com/file/d/1FItujoRpPW3aQtkS2a2hR9SAywPmT9LR";
+//   })
 
 // Class - 5th
 
